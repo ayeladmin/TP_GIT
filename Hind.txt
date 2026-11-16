@@ -1,0 +1,3 @@
+Bonjour !
+J'apprends à utiliser Git.
+Ceci est mon premier fichier.
